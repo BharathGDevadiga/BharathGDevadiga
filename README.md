@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- ✨ One Piece Animated Banner ✨ -->
-<img src="./bharath-banner.svg?v=2" alt="Bharath G Devadiga — ECE Engineer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./bharath-banner.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="./bharath-banner-light.svg?v=1">
+  <img src="./bharath-banner.svg?v=3" alt="Bharath G Devadiga - ECE Engineer" width="100%"/>
+</picture>
 
 </div>
 
