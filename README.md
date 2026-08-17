@@ -1,8 +1,8 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Bharath G Devadiga 👋</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00599C&center=true&vCenter=true&width=800&lines=ECE+Student+%7C+VLSI+%26+FPGA;I+design+hardware+logic;I+build+scalable+mobile+apps" alt="Typing SVG" />
-  </a>
+
+<!-- ✨ One Piece Animated Banner ✨ -->
+<img src="./bharath-banner.svg?v=1" alt="Bharath G Devadiga — ECE Engineer" width="100%"/>
+
 </div>
 
 <br/>
@@ -10,7 +10,6 @@
 <table border="1" bordercolor="#30363d" cellpadding="10" align="center" width="100%">
   <tr>
     <td width="35%" valign="middle" align="center">
-      <!-- Instead of ID card, using the AI Portrait -->
       <img src="./avatar.jpg" alt="AI Generated Portrait" width="280" style="border-radius: 15px;" />
       <br/><br/>
       <p align="center"><b>Hardware Logic Designer</b></p>
