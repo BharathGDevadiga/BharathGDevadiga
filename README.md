@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✨ One Piece Animated Banner ✨ -->
-<img src="https://raw.githubusercontent.com/BharathGDevadiga/BharathGDevadiga/main/bharath-banner.svg?v=2" alt="Bharath G Devadiga — ECE Engineer" width="100%"/>
+<img src="./bharath-banner.svg?v=2" alt="Bharath G Devadiga — ECE Engineer" width="100%"/>
 
 </div>
 
@@ -10,7 +10,7 @@
 <table border="1" bordercolor="#30363d" cellpadding="10" align="center" width="100%">
   <tr>
     <td width="35%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/BharathGDevadiga/BharathGDevadiga/main/avatar.jpg" alt="AI Generated Portrait" width="280" style="border-radius: 15px;" />
+      <img src="./avatar.jpg" alt="AI Generated Portrait" width="280" style="border-radius: 15px;" />
       <br/><br/>
       <p align="center"><b>Hardware Logic Designer</b></p>
     </td>
@@ -42,8 +42,8 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
 <h2 align="center">📊 GitHub Stats & Graphs</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BharathGDevadiga/BharathGDevadiga/main/bharath-stats.svg?v=1" alt="GitHub Stats" width="48%" />
-  <img src="https://raw.githubusercontent.com/BharathGDevadiga/BharathGDevadiga/main/bharath-langs.svg?v=1" alt="Top Languages" width="48%" />
+  <img src="./bharath-stats.svg?v=1" alt="GitHub Stats" width="48%" />
+  <img src="./bharath-langs.svg?v=1" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
@@ -61,7 +61,7 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BharathGDevadiga/BharathGDevadiga/main/bharath-trophies.svg?v=1" alt="Trophies" width="100%" />
+  <img src="./bharath-trophies.svg?v=1" alt="Trophies" width="100%" />
 </div>
 
 <br/>
@@ -69,9 +69,9 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
 <div align="center">
   <h3>🐍 Watch the snake eat my contributions</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BharathGDevadiga/BharathGDevadiga/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BharathGDevadiga/BharathGDevadiga/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BharathGDevadiga/BharathGDevadiga/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BharathGDevadiga/BharathGDevadiga/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/BharathGDevadiga/BharathGDevadiga/blob/output/github-contribution-grid-snake.svg?raw=true">
+    <img alt="github contribution grid snake animation" src="https://github.com/BharathGDevadiga/BharathGDevadiga/blob/output/github-contribution-grid-snake.svg?raw=true">
   </picture>
 </div>
 
