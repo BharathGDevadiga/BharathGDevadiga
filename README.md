@@ -71,7 +71,11 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BharathGDevadiga&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=bharath's%20Contribution%20Graph%20🚀" alt="Activity Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BharathGDevadiga&bg_color=0d1e30&color=22d3ee&line=22d3ee&point=f59e0b&area=true&area_color=22d3ee&hide_border=true&custom_title=Bharath's%20Contribution%20Graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BharathGDevadiga&bg_color=ffffff&color=0284c7&line=0284c7&point=d97706&area=true&area_color=0284c7&hide_border=true&title_color=0f172a&custom_title=Bharath's%20Contribution%20Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BharathGDevadiga&bg_color=0d1e30&color=22d3ee&line=22d3ee&point=f59e0b&area=true&area_color=22d3ee&hide_border=true&custom_title=Bharath's%20Contribution%20Graph" alt="Activity Graph" width="100%" />
+  </picture>
 </div>
 
 <br/>
@@ -81,17 +85,6 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
     <source media="(prefers-color-scheme: dark)" srcset="./bharath-trophies.svg?v=2">
     <source media="(prefers-color-scheme: light)" srcset="./bharath-trophies-light.svg?v=2">
     <img src="./bharath-trophies.svg?v=2" alt="Trophies" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🐍 Watch the snake eat my contributions</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BharathGDevadiga/BharathGDevadiga/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/BharathGDevadiga/BharathGDevadiga/blob/output/github-contribution-grid-snake.svg?raw=true">
-    <img alt="github contribution grid snake animation" src="https://github.com/BharathGDevadiga/BharathGDevadiga/blob/output/github-contribution-grid-snake.svg?raw=true">
   </picture>
 </div>
 
