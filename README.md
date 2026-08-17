@@ -25,8 +25,9 @@
 
 | 🛠️ Project | 💻 Tech | ⭐ |
 |:---|:---:|:---:|
-| [☀️ Solar Monitor (IoT)](https://github.com/BharathGDevadiga) | `ESP32` `C++` | 10 |
-| [📚 Code Volt (EdTech)](https://github.com/BharathGDevadiga) | `Java` `Firebase` | 8 |
+| [☀️ Solar Monitor (IoT) - *In Dev*](https://github.com/BharathGDevadiga) | `ESP32` `C++` | 10 |
+| [📚 Code Volt (EdTech) - *In Dev*](https://github.com/BharathGDevadiga) | `Java` `Firebase` | 8 |
+| [⚙️ FPGA / Vivado Project](https://github.com/BharathGDevadiga) | `Verilog` `Vivado` | 5 |
 
 <br/>
 
@@ -56,6 +57,7 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
 ### Hardware & Embedded (ECE Focus)
 <p align="left">
   <img src="https://img.shields.io/badge/Verilog-2C2D72?style=for-the-badge&logo=microchip&logoColor=white" alt="Verilog" />
+  <img src="https://img.shields.io/badge/Xilinx_Vivado-E34F26?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado" />
   <img src="https://img.shields.io/badge/RTL--to--GDSII-FF6F00?style=for-the-badge&logo=circuitiq&logoColor=white" alt="RTL to GDS" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Embedded_Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Embedded Systems" />
