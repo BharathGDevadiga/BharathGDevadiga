@@ -7,59 +7,68 @@
 
 <br/>
 
-<table border="0" cellpadding="10" align="center">
+<table border="1" bordercolor="#30363d" cellpadding="10" align="center" width="100%">
   <tr>
-    <td width="35%" valign="top" align="center">
-      <img src="./avatar.jpg" alt="AI Generated Portrait" width="100%" style="border-radius: 15px;" />
-      <br/>
-      <i><p align="center">Hardware Logic Designer</p></i>
+    <td width="35%" valign="middle" align="center">
+      <!-- Instead of ID card, using the AI Portrait -->
+      <img src="./avatar.jpg" alt="AI Generated Portrait" width="280" style="border-radius: 15px;" />
+      <br/><br/>
+      <p align="center"><b>Hardware Logic Designer</b></p>
     </td>
     <td width="65%" valign="top">
-      <h2>👨‍💻 About Me</h2>
-      <p>I am an Electronics and Communication Engineering (ECE) student passionate about bridging the gap between hardware and software. I don't just build software—I design the hardware logic that runs it!</p>
-      <ul>
-        <li>🔭 <b>Working on:</b> Mobile apps with hardware integrations & secure paywalls.</li>
-        <li>🌱 <b>Learning:</b> RTL-to-GDSII flows and advanced VLSI design techniques.</li>
-        <li>💬 <b>Ask me about:</b> Android Dev (Java), ESP32 integrations (C++), and Verilog!</li>
-        <li>📫 <b>Reach me:</b> <a href="mailto:myasuslaptop45@gmail.com">myasuslaptop45@gmail.com</a></li>
-      </ul>
       <h2>🚀 Top Projects</h2>
       <ul>
         <li><a href="https://github.com/BharathGDevadiga">☀️ Solar Monitor (IoT)</a> - ESP32, C++ <i>(In Dev)</i></li>
         <li><a href="https://github.com/BharathGDevadiga">📚 Code Volt (EdTech)</a> - Java, Firebase <i>(In Dev)</i></li>
         <li><a href="https://github.com/BharathGDevadiga">⚙️ FPGA / Vivado Project</a> - Verilog, Vivado</li>
       </ul>
+      <br/>
+      <blockquote>
+        <p>⚡ <i>"I don't just build software—I design the hardware logic that runs it!"</i></p>
+      </blockquote>
     </td>
   </tr>
 </table>
 
 <br/>
 
-## 🛠️ Tech Stack & Skills
-
-### Hardware & Embedded (ECE Focus)
-<p align="left">
-  <img src="https://img.shields.io/badge/Verilog-2C2D72?style=for-the-badge&logo=microchip&logoColor=white" alt="Verilog" />
-  <img src="https://img.shields.io/badge/Xilinx_Vivado-E34F26?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado" />
-  <img src="https://img.shields.io/badge/RTL--to--GDSII-FF6F00?style=for-the-badge&logo=circuitiq&logoColor=white" alt="RTL to GDS" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Embedded_Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Embedded Systems" />
-</p>
-
-### Software & Mobile
-<p align="left">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+## 👨‍💻 About Me
+I am an Electronics and Communication Engineering (ECE) student passionate about bridging the gap between hardware and software.
+- 🔭 **Working on:** Mobile apps with hardware integrations & secure paywalls.
+- 🌱 **Learning:** RTL-to-GDSII flows and advanced VLSI design techniques.
+- 💬 **Ask me about:** Android Dev (Java), ESP32 integrations (C++), and Verilog!
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats & Graphs</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BharathGDevadiga&show_icons=true&theme=radical&hide_border=true" alt="Bharath's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathGDevadiga&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BharathGDevadiga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathGDevadiga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BharathGDevadiga&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BharathGDevadiga&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BharathGDevadiga&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" width="100%" />
+</div>
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+<p align="center">
+  <a href="mailto:myasuslaptop45@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
