@@ -1,4 +1,4 @@
-<div align="center">
+README_CONTENT = """<div align="center">
 
 <!-- ✨ One Piece Animated Banner ✨ -->
 <picture>
@@ -104,3 +104,9 @@
   &nbsp;
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
+"""
+
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(README_CONTENT)
+
+print("Generated polished README.md!")
