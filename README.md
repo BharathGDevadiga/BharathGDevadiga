@@ -46,14 +46,26 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
 <h2 align="center">📊 GitHub Stats & Graphs</h2>
 
 <div align="center">
-  <img src="./bharath-stats.svg?v=1" alt="GitHub Stats" width="48%" />
-  <img src="./bharath-langs.svg?v=1" alt="Top Languages" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./bharath-stats.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="./bharath-stats-light.svg?v=2">
+    <img src="./bharath-stats.svg?v=2" alt="GitHub Stats" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./bharath-langs.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="./bharath-langs-light.svg?v=2">
+    <img src="./bharath-langs.svg?v=2" alt="Top Languages" width="48%" />
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BharathGDevadiga&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BharathGDevadiga&theme=radical&hide_border=true&background=0d1e30&ring=22d3ee&fire=f59e0b&currStreakLabel=4ade80">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BharathGDevadiga&theme=radical&hide_border=true&background=ffffff&ring=0284c7&fire=d97706&currStreakLabel=16a34a&labels=0f172a&dates=334155&stat=0f172a">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BharathGDevadiga&theme=radical&hide_border=true&background=0d1e30&ring=22d3ee&fire=f59e0b&currStreakLabel=4ade80" alt="GitHub Streak" width="100%" />
+  </picture>
 </div>
 
 <br/>
@@ -65,7 +77,11 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
 <br/>
 
 <div align="center">
-  <img src="./bharath-trophies.svg?v=1" alt="Trophies" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./bharath-trophies.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="./bharath-trophies-light.svg?v=2">
+    <img src="./bharath-trophies.svg?v=2" alt="Trophies" width="100%" />
+  </picture>
 </div>
 
 <br/>
