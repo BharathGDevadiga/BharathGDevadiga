@@ -213,10 +213,10 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <text x="378" y="608" text-anchor="middle" font-size="11" fill="#64748b">&#11088; Stars</text>
   <text x="500" y="608" text-anchor="middle" font-size="11" fill="#64748b">&#128101; Followers</text>
 </g>
-<text class="st" x="114" y="636" text-anchor="middle" font-size="17" font-weight="bold" fill="#0284c7" filter="url(#glow)" style="animation:fadeIn .4s ease 6.8s forwards">12+</text>
+<text class="st" x="114" y="636" text-anchor="middle" font-size="17" font-weight="bold" fill="#0284c7" filter="url(#glow)" style="animation:fadeIn .4s ease 6.8s forwards">10+</text>
 <text class="st" x="246" y="636" text-anchor="middle" font-size="17" font-weight="bold" fill="#d97706" filter="url(#glow)" style="animation:fadeIn .4s ease 6.95s forwards">500+</text>
-<text class="st" x="378" y="636" text-anchor="middle" font-size="17" font-weight="bold" fill="#16a34a" filter="url(#glow)" style="animation:fadeIn .4s ease 7.1s forwards">50+</text>
-<text class="st" x="500" y="636" text-anchor="middle" font-size="17" font-weight="bold" fill="#4f46e5" filter="url(#glow)" style="animation:fadeIn .4s ease 7.25s forwards">25+</text>
+<text class="st" x="378" y="636" text-anchor="middle" font-size="17" font-weight="bold" fill="#16a34a" filter="url(#glow)" style="animation:fadeIn .4s ease 7.1s forwards">4+</text>
+<text class="st" x="500" y="636" text-anchor="middle" font-size="17" font-weight="bold" fill="#4f46e5" filter="url(#glow)" style="animation:fadeIn .4s ease 7.25s forwards">1+</text>
 
 <!-- ============ RIGHT: IMAGE ============ -->
 <circle cx="1010" cy="440" r="270" fill="url(#imgGlow)"><animate attributeName="r" values="270;292;270" dur="5s" repeatCount="indefinite"/></circle>

@@ -26,7 +26,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <g class="row" style="animation-delay:0.50s">
     <text x="24" y="76" font-size="14">⭐</text>
     <text x="52" y="76" font-size="13.5" fill="#cdd3dd">Total Stars Earned:</text>
-    <text x="270" y="76" text-anchor="end" font-size="14" font-weight="bold" fill="#fde047">50+</text>
+    <text x="270" y="76" text-anchor="end" font-size="14" font-weight="bold" fill="#fde047">4+</text>
   </g>
   <g class="row" style="animation-delay:0.72s">
     <text x="24" y="110" font-size="14">💻</text>
@@ -36,12 +36,12 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <g class="row" style="animation-delay:0.94s">
     <text x="24" y="144" font-size="14">📦</text>
     <text x="52" y="144" font-size="13.5" fill="#cdd3dd">Public Repos:</text>
-    <text x="270" y="144" text-anchor="end" font-size="14" font-weight="bold" fill="#4ade80">12+</text>
+    <text x="270" y="144" text-anchor="end" font-size="14" font-weight="bold" fill="#4ade80">10+</text>
   </g>
   <g class="row" style="animation-delay:1.16s">
     <text x="24" y="178" font-size="14">👥</text>
     <text x="52" y="178" font-size="13.5" fill="#cdd3dd">Followers:</text>
-    <text x="270" y="178" text-anchor="end" font-size="14" font-weight="bold" fill="#f59e0b">25+</text>
+    <text x="270" y="178" text-anchor="end" font-size="14" font-weight="bold" fill="#f59e0b">1+</text>
   </g>
   <g class="row" style="animation-delay:1.38s">
     <text x="24" y="212" font-size="14">⚙️</text>
