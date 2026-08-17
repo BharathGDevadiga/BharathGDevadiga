@@ -17,7 +17,7 @@
     <td width="65%" valign="top">
       <h2>🚀 Top Projects</h2>
       <ul>
-        <li><a href="https://github.com/BharathGDevadiga/uav-metal-detector">🚁 UAV Metal Detector</a> - Embedded Hardware</li>
+        <li><a href="https://github.com/BharathGDevadiga">⚙️ FPGA / Vivado Project</a> - Verilog, Vivado</li>
         <li><a href="https://github.com/BharathGDevadiga/RTL-GDS-FLOW">⚙️ RTL to GDS Flow</a> - VLSI Physical Design</li>
         <li><a href="https://github.com/BharathGDevadiga/fullstack-web-apps-suite">💻 Fullstack Web Suite</a> - Software Development</li>
       </ul>
