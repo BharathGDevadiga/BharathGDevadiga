@@ -1,56 +1,39 @@
 <div align="center">
-
-<!-- ✨ Animated Banner ✨ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./bharath-banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./bharath-banner.svg?v=1">
-  <img src="./bharath-banner.svg?v=1" alt="Bharath G Devadiga — ECE Engineer" width="100%"/>
-</picture>
-
+  <h1 align="center">Hi there, I'm Bharath G Devadiga 👋</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00599C&center=true&vCenter=true&width=800&lines=ECE+Student+%7C+VLSI+%26+FPGA;I+design+hardware+logic;I+build+scalable+mobile+apps" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
-<table align="center" border="0">
-<tr>
-<td width="38%" align="center" valign="middle">
-
-<!-- 🪪 Swinging Lanyard ID Card -->
-<img src="./bharath-lanyard.svg?v=1" alt="Bharath G Devadiga ID badge" width="330"/>
-
-</td>
-<td width="62%" valign="middle">
-
-### 🚀 Top Projects
-
-| 🛠️ Project | 💻 Tech | ⭐ |
-|:---|:---:|:---:|
-| [☀️ Solar Monitor (IoT) - *In Dev*](https://github.com/BharathGDevadiga) | `ESP32` `C++` | 10 |
-| [📚 Code Volt (EdTech) - *In Dev*](https://github.com/BharathGDevadiga) | `Java` `Firebase` | 8 |
-| [⚙️ FPGA / Vivado Project](https://github.com/BharathGDevadiga) | `Verilog` `Vivado` | 5 |
-
-<br/>
-
-> ⚡ *"I don't just build software—I design the hardware logic that runs it!"*
-
-</td>
-</tr>
+<table border="0" cellpadding="10" align="center">
+  <tr>
+    <td width="35%" valign="top" align="center">
+      <img src="./avatar.jpg" alt="AI Generated Portrait" width="100%" style="border-radius: 15px;" />
+      <br/>
+      <i><p align="center">Hardware Logic Designer</p></i>
+    </td>
+    <td width="65%" valign="top">
+      <h2>👨‍💻 About Me</h2>
+      <p>I am an Electronics and Communication Engineering (ECE) student passionate about bridging the gap between hardware and software. I don't just build software—I design the hardware logic that runs it!</p>
+      <ul>
+        <li>🔭 <b>Working on:</b> Mobile apps with hardware integrations & secure paywalls.</li>
+        <li>🌱 <b>Learning:</b> RTL-to-GDSII flows and advanced VLSI design techniques.</li>
+        <li>💬 <b>Ask me about:</b> Android Dev (Java), ESP32 integrations (C++), and Verilog!</li>
+        <li>📫 <b>Reach me:</b> <a href="mailto:myasuslaptop45@gmail.com">myasuslaptop45@gmail.com</a></li>
+      </ul>
+      <h2>🚀 Top Projects</h2>
+      <ul>
+        <li><a href="https://github.com/BharathGDevadiga">☀️ Solar Monitor (IoT)</a> - ESP32, C++ <i>(In Dev)</i></li>
+        <li><a href="https://github.com/BharathGDevadiga">📚 Code Volt (EdTech)</a> - Java, Firebase <i>(In Dev)</i></li>
+        <li><a href="https://github.com/BharathGDevadiga">⚙️ FPGA / Vivado Project</a> - Verilog, Vivado</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 <br/>
-
-## 👨‍💻 About Me
-I am an Electronics and Communication Engineering (ECE) student passionate about bridging the gap between hardware and software. 
-
-- 🔭 **I’m currently working on:** Advanced mobile apps with seamless hardware interactions and secure paywalls.
-- 🌱 **I’m currently learning:** Deeper RTL-to-GDSII flows and advanced VLSI design techniques.
-- 👯 **I’m looking to collaborate on:** Innovative IoT projects, Embedded Systems, and scalable Android apps.
-- 🤔 **I’m looking for help with:** Optimizing hardware architectures and exploring new tech stacks.
-- 💬 **Ask me about:** Android App Development (Java), ESP32 integrations (C++), and Verilog!
-- 📫 **How to reach me:** myasuslaptop45@gmail.com
-- 😄 **Pronouns:** He/Him
-
----
 
 ## 🛠️ Tech Stack & Skills
 
@@ -74,7 +57,9 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BharathGDevadiga&show_icons=true&theme=tokyonight&hide_border=true" alt="Bharath's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathGDevadiga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BharathGDevadiga&show_icons=true&theme=radical&hide_border=true" alt="Bharath's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathGDevadiga&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
