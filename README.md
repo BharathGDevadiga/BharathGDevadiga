@@ -42,26 +42,26 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
 <h2 align="center">📊 GitHub Stats & Graphs</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BharathGDevadiga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathGDevadiga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://raw.githubusercontent.com/BharathGDevadiga/BharathGDevadiga/main/bharath-stats.svg?v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://raw.githubusercontent.com/BharathGDevadiga/BharathGDevadiga/main/bharath-langs.svg?v=1" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BharathGDevadiga&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BharathGDevadiga&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BharathGDevadiga&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BharathGDevadiga&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=bharath's%20Contribution%20Graph%20🚀" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BharathGDevadiga&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" width="100%" />
+  <img src="https://raw.githubusercontent.com/BharathGDevadiga/BharathGDevadiga/main/bharath-trophies.svg?v=1" alt="Trophies" width="100%" />
 </div>
 
 <br/>
