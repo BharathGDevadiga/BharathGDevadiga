@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✨ One Piece Animated Banner ✨ -->
-<img src="./bharath-banner.svg?v=1" alt="Bharath G Devadiga — ECE Engineer" width="100%"/>
+<img src="https://raw.githubusercontent.com/BharathGDevadiga/BharathGDevadiga/main/bharath-banner.svg?v=2" alt="Bharath G Devadiga — ECE Engineer" width="100%"/>
 
 </div>
 
@@ -10,7 +10,7 @@
 <table border="1" bordercolor="#30363d" cellpadding="10" align="center" width="100%">
   <tr>
     <td width="35%" valign="middle" align="center">
-      <img src="./avatar.jpg" alt="AI Generated Portrait" width="280" style="border-radius: 15px;" />
+      <img src="https://raw.githubusercontent.com/BharathGDevadiga/BharathGDevadiga/main/avatar.jpg" alt="AI Generated Portrait" width="280" style="border-radius: 15px;" />
       <br/><br/>
       <p align="center"><b>Hardware Logic Designer</b></p>
     </td>
