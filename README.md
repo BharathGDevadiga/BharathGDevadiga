@@ -64,6 +64,17 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
   <img src="https://github-profile-trophy.vercel.app/?username=BharathGDevadiga&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" width="100%" />
 </div>
 
+<br/>
+
+<div align="center">
+  <h3>🐍 Watch the snake eat my contributions</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BharathGDevadiga/BharathGDevadiga/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BharathGDevadiga/BharathGDevadiga/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BharathGDevadiga/BharathGDevadiga/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ---
 
 <h2 align="center">🤝 Let's Connect</h2>
