@@ -1,8 +1,12 @@
 <div align="center">
-  <!-- Animated Banner Equivalent -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00599C&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Bharath+G+Devadiga+👋;ECE+Student+%7C+VLSI+%26+FPGA;I+design+hardware+logic;I+build+scalable+mobile+apps" alt="Typing SVG" />
-  </a>
+
+<!-- ✨ Animated Banner ✨ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./bharath-banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./bharath-banner.svg?v=1">
+  <img src="./bharath-banner.svg?v=1" alt="Bharath G Devadiga — ECE Engineer" width="100%"/>
+</picture>
+
 </div>
 
 <br/>
@@ -11,8 +15,8 @@
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<!-- Cool Profile/Hardware Image (Equivalent to the Lanyard) -->
-<img src="https://media.giphy.com/media/qgQUggCGvnP1K/giphy.gif" alt="Anime Coding Banner" width="330"/>
+<!-- 🪪 Swinging Lanyard ID Card -->
+<img src="./bharath-lanyard.svg?v=1" alt="Bharath G Devadiga ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
@@ -21,8 +25,8 @@
 
 | 🛠️ Project | 💻 Tech | ⭐ |
 |:---|:---:|:---:|
-| [☀️ Solar Monitor (IoT)](https://github.com/BharathGDevadiga/YOUR_REPO) | `ESP32` `C++` | 10 |
-| [📚 Code Volt (EdTech)](https://github.com/BharathGDevadiga/YOUR_REPO) | `Java` `Firebase` | 8 |
+| [☀️ Solar Monitor (IoT)](https://github.com/BharathGDevadiga) | `ESP32` `C++` | 10 |
+| [📚 Code Volt (EdTech)](https://github.com/BharathGDevadiga) | `Java` `Firebase` | 8 |
 
 <br/>
 
@@ -67,8 +71,6 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
 </p>
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BharathGDevadiga&show_icons=true&theme=tokyonight&hide_border=true" alt="Bharath's GitHub stats" width="48%" />
