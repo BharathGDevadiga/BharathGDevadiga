@@ -339,7 +339,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
     <path d="M11 13a3 3 0 016 0v5" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/>
     <line x1="11" y1="11" x2="11" y2="18" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/>
   </g>
-  <text x="496" y="707" font-size="12.5" fill="#c9d1d9">bharath-g-devadiga</text>
+  <text x="496" y="707" font-size="12.5" fill="#c9d1d9">bharathgdevadiga</text>
 </g>
 <!-- FOOTER TAGLINE: Different from Megha's -->
 <text class="soc" x="1232" y="707" text-anchor="end" font-size="13" style="animation:fadeIn .5s ease 7.6s forwards">
