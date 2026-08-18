@@ -2,9 +2,9 @@
 
 <!-- ✨ One Piece Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./bharath-banner.svg?v=4">
-  <source media="(prefers-color-scheme: light)" srcset="./bharath-banner-light.svg?v=4">
-  <img src="./bharath-banner.svg?v=4" alt="Bharath G Devadiga - ECE Engineer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./bharath-banner.svg?v=5">
+  <source media="(prefers-color-scheme: light)" srcset="./bharath-banner-light.svg?v=5">
+  <img src="./bharath-banner.svg?v=5" alt="Bharath G Devadiga - ECE Engineer" width="100%"/>
 </picture>
 
 </div>
@@ -14,22 +14,22 @@
 <div align="center">
 <table border="0" cellpadding="12" cellspacing="0" width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="32%" valign="middle" align="center" style="border: none;">
-      <img src="./avatar.jpg" alt="Bharath G Devadiga" width="260" style="border-radius: 16px;" />
+    <td width="30%" valign="middle" align="center" style="border: none;">
+      <img src="./avatar.jpg" alt="Bharath G Devadiga" width="250" style="border-radius: 16px;" />
       <br/><br/>
-      <b>⚡ Hardware Logic Designer &amp; Developer</b>
+      <b>⚡ Hardware Logic Designer &amp; Builder</b>
     </td>
-    <td width="68%" valign="top" style="border: none;">
+    <td width="70%" valign="top" style="border: none;">
       <h3>🚀 Featured Engineering Projects</h3>
       <ul>
         <li>
-          <a href="https://github.com/BharathGDevadiga"><b>⚙️ FPGA / Vivado Accelerator Projects</b></a><br/>
-          <sub>Custom digital logic architectures, hardware simulation, and Vivado synthesis.</sub>
+          <a href="https://github.com/BharathGDevadiga/bharath-VIVEQA"><b>⚙️ FPGA / Vivado Accelerator Projects (VIVEQA)</b></a><br/>
+          <sub>30-day FPGA and Verilog HDL journey using Xilinx Vivado with modular hardware logic.</sub>
         </li>
         <br/>
         <li>
           <a href="https://github.com/BharathGDevadiga/RTL-GDS-FLOW"><b>⚡ RTL to GDS Flow (VLSI Physical Design)</b></a><br/>
-          <sub>Complete ASIC implementation flow from Register-Transfer Level to GDSII layout.</sub>
+          <sub>Complete ASIC design flow from UART digital simulation to CMOS layout in KLayout.</sub>
         </li>
         <br/>
         <li>
@@ -54,15 +54,15 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./bharath-stats.svg?v=3">
-    <source media="(prefers-color-scheme: light)" srcset="./bharath-stats-light.svg?v=3">
-    <img src="./bharath-stats.svg?v=3" alt="GitHub Stats" width="48%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./bharath-stats.svg?v=4">
+    <source media="(prefers-color-scheme: light)" srcset="./bharath-stats-light.svg?v=4">
+    <img src="./bharath-stats.svg?v=4" alt="GitHub Stats" width="48%" />
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./bharath-langs.svg?v=3">
-    <source media="(prefers-color-scheme: light)" srcset="./bharath-langs-light.svg?v=3">
-    <img src="./bharath-langs.svg?v=3" alt="Top Languages" width="48%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./bharath-langs.svg?v=4">
+    <source media="(prefers-color-scheme: light)" srcset="./bharath-langs-light.svg?v=4">
+    <img src="./bharath-langs.svg?v=4" alt="Top Languages" width="48%" />
   </picture>
 </div>
 
@@ -80,27 +80,28 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BharathGDevadiga&bg_color=0d1e30&color=22d3ee&line=22d3ee&point=f59e0b&area=true&area_color=22d3ee&hide_border=true&custom_title=Bharath's%20Contribution%20Graph">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BharathGDevadiga&bg_color=ffffff&color=0284c7&line=0284c7&point=d97706&area=true&area_color=0284c7&hide_border=true&title_color=0f172a&custom_title=Bharath's%20Contribution%20Graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BharathGDevadiga&bg_color=0d1e30&color=22d3ee&line=22d3ee&point=f59e0b&area=true&area_color=22d3ee&hide_border=true&custom_title=Bharath's%20Contribution%20Graph" alt="Activity Graph" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./bharath-trophies.svg?v=3">
-    <source media="(prefers-color-scheme: light)" srcset="./bharath-trophies-light.svg?v=3">
-    <img src="./bharath-trophies.svg?v=3" alt="Trophies" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./bharath-trophies.svg?v=4">
+    <source media="(prefers-color-scheme: light)" srcset="./bharath-trophies-light.svg?v=4">
+    <img src="./bharath-trophies.svg?v=4" alt="Trophies" width="100%" />
   </picture>
 </div>
 
 ---
 
-<h2 align="center">🤝 Let's Connect</h2>
-<p align="center">
-  <a href="mailto:bharathgdudupi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<h2 align="center">🤝 Let's Connect &amp; Collaborate</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/bharathgdevadiga" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   &nbsp;
-  <a href="https://linkedin.com/in/bharathgdevadiga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+  <a href="mailto:bharathgdudupi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/BharathGDevadiga" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<br/>

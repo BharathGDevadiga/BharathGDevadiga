@@ -106,5 +106,11 @@ README_CONTENT = """<div align="center">
 
 <br/>
 """
+
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(README_CONTENT)
+
+with open("build_readme_v2.py", "w", encoding="utf-8") as f:
+    f.write(f'README_CONTENT = """{README_CONTENT}"""\nwith open("README.md", "w", encoding="utf-8") as f:\n    f.write(README_CONTENT)\n')
+
+print("Updated README.md with clean layout and no redundant activity graphs!")
