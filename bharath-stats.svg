@@ -36,7 +36,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <g class="row" style="animation-delay:0.94s">
     <text x="24" y="144" font-size="14">📦</text>
     <text x="52" y="144" font-size="13.5" fill="#cdd3dd">Public Repos:</text>
-    <text x="270" y="144" text-anchor="end" font-size="14" font-weight="bold" fill="#4ade80">12+</text>
+    <text x="270" y="144" text-anchor="end" font-size="14" font-weight="bold" fill="#4ade80">13+</text>
   </g>
   <g class="row" style="animation-delay:1.16s">
     <text x="24" y="178" font-size="14">👥</text>
